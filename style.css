@@ -1,0 +1,28 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+.header{
+    margin-top: 20px;
+    text-align: center;
+    color: purple;
+}
+
+#inp1{
+    padding-top: 10px;
+}
+
+#inp2{
+    padding-top: 15px;
+}
+
+.bt{
+    padding-top: 15px;
+}
+p{
+    text-align: center;
+}
+
+#ok{
+    justify-content: center;
+}
