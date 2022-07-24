@@ -7,4 +7,6 @@ I have used government issued API in this project. You can find api from
 
 In this project i have used Jquery, HTML and CSS
 
+
+### Try Live Demo
 <ul>https://harshadsbhalerao.github.io/Covid19-Vaccine-Availability-Chacker/</ul>
